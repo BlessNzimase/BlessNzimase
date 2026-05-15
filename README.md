@@ -4,7 +4,7 @@
 
 IAM Specialist focused on Zero Trust security, Microsoft Entra ID, Conditional Access, and identity lifecycle management within hybrid enterprise environments.
 
-Currently managing identity lifecycles for 200+ users while implementing Zero Trust security principles using Microsoft security technologies.
+Currently managing identity lifecycles for 200+ users and supporting global Self-Service Password Reset (SSPR) rollout initiatives using Microsoft security technologies.
 
 ---
 
