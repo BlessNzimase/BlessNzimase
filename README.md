@@ -38,6 +38,9 @@ Currently managing identity lifecycles for 200+ users and supporting global Self
 - Manage BYOD access controls using Entra Registration
 - Conduct security auditing and sign-in log analysis using KQL
 - Support Zero Trust security initiatives across hybrid environments
+- - Support Joiner, Mover, Leaver (JML) identity lifecycle processes alongside HR to ensure secure and compliant user onboarding, role transitions, and offboarding procedures.
+- Ensure access rights are provisioned and modified according to least privilege and role-based access control (RBAC) principles.
+- Contribute to identity governance initiatives aimed at reducing insider risk exposure and reinforcing Zero Trust security controls across the enterprise environment.
 
 ### Intern: IT
 **Sappi** | Feb 2023 – Sept 2023
