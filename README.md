@@ -98,7 +98,7 @@ Microsoft Entra ID | Conditional Access | MFA | Hybrid Identity | Password Prote
 
 ## 📫 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/blessing-sikhakhane-security" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/blessing-sikhakhane-security" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/blessing-sikhakhane-security" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/blessing-sikhakhane-security" height="30" width="40" /></a>
 </p>
 
 ---
