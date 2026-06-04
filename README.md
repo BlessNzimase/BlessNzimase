@@ -63,7 +63,7 @@ Currently managing identity lifecycles for 200+ users and supporting global Self
 
 ### Azure Digital Sovereignty & Governance Implementation
 
-This project was developed during the Microsoft Hackathon – Digital Sovereignty Summit South Africa (2026). It demonstrates how to enforce data sovereignty and governance controls** in Azure using native services such as Azure Policy and RBAC, aligned with POPIA (Protection of Personal Information Act) requirements.
+This project was developed during the Microsoft Hackathon – Digital Sovereignty Summit South Africa (2026). It demonstrates how to enforce data sovereignty and governance controls in Azure using native services such as Azure Policy and RBAC, aligned with POPIA (Protection of Personal Information Act) requirements.
 
 ---
 
