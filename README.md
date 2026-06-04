@@ -89,6 +89,15 @@ This project was developed during the Microsoft Hackathon – Digital Sovereignt
 
 - 🏢 Applied governance controls at management group / subscription scope for centralized enforcement.
 
+- ## 🔍 Compliance Mapping (POPIA)
+
+| Control | Implementation |
+|--------|---------------|
+| POPIA s.72 | Region restriction policies |
+| POPIA s.14 | Data classification tagging |
+| POPIA s.19 | Network security & private endpoints |
+| POPIA s.55 | RBAC & audit access control |
+
 ---
 
 ## 🛠️ Technologies Used
