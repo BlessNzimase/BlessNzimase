@@ -38,7 +38,7 @@ Currently managing identity lifecycles for 200+ users and supporting global Self
 - Manage BYOD access controls using Entra Registration
 - Conduct security auditing and sign-in log analysis using KQL
 - Support Zero Trust security initiatives across hybrid environments
-- - Support Joiner, Mover, Leaver (JML) identity lifecycle processes alongside HR to ensure secure and compliant user onboarding, role transitions, and offboarding procedures.
+-  Support Joiner, Mover, Leaver (JML) identity lifecycle processes alongside HR to ensure secure and compliant user onboarding, role transitions, and offboarding procedures.
 - Ensure access rights are provisioned and modified according to least privilege and role-based access control (RBAC) principles.
 - Contribute to identity governance initiatives aimed at reducing insider risk exposure and reinforcing Zero Trust security controls across the enterprise environment.
 
@@ -55,11 +55,52 @@ Currently managing identity lifecycles for 200+ users and supporting global Self
 - Microsoft Certified: Security Operations Analyst Associate (SC-200)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Identity and Access Administrator (SC-300) *(Expected May 2026)*
+- Microsoft Identity and Access Administrator (SC-300) *(Expected June 2026)*
 
 ---
 
 ## Projects
+
+### Azure Digital Sovereignty & Governance Implementation
+
+This project was developed during the Microsoft Hackathon – Digital Sovereignty Summit South Africa (2026). It demonstrates how to enforce data sovereignty and governance controls** in Azure using native services such as Azure Policy and RBAC, aligned with POPIA (Protection of Personal Information Act) requirements.
+
+---
+
+## 🚀 Key Features
+
+- ✅ Designed and deployed an Azure Policy Initiative  
+  (*Sovereignty Summit ZA / Foundations*) to enforce governance controls at scale.
+
+- 🌍 Enforced data residency compliance by restricting resource deployments to:
+  - South Africa North (`southafricanorth`)
+  - South Africa West (`southafricawest`)
+
+- 🏷️ Implemented mandatory data classification tagging (`DataClassification`) using:
+  - Deny policies for enforcement  
+  - Modify policies for auto-remediation  
+
+- 🔒 Secured sensitive workloads by:
+  - Blocking public IP creation  
+  - Enforcing private endpoint usage for:
+    - Azure Storage  
+    - Azure SQL  
+    - Azure Key Vault  
+
+- 🏢 Applied governance controls at management group / subscription scope for centralized enforcement.
+
+---
+
+## 🛠️ Technologies Used
+
+- Azure Policy (Definitions, Assignments, Initiatives)
+- Azure RBAC (Built-in & Custom Roles)
+- Azure CLI
+- Azure Resource Manager (ARM)
+- JSON (Policy & Role Definitions)
+
+---
+
 
 ### Self-Service Password Reset (SSPR) Global Rollout
 Currently supporting the global rollout of Microsoft Entra ID Self-Service Password Reset (SSPR) for internal and external users to improve identity security, reduce helpdesk dependency, and strengthen access resilience.
